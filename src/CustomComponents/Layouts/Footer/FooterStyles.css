@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap");
+.ulStyle {
+	list-style: none;
+	font-size: small;
+	font-family: "Jura", sans-serif;
+}
+.liStyle {
+	margin-bottom: 3%;
+	font-family: "Jura", sans-serif;
+}
+.listHeading {
+	margin-bottom: 5%;
+	color: aliceblue;
+	font-weight: bolder;
+	font-family: "Jura", sans-serif;
+}
+.itemCenter {
+	padding: 5%;
+}
+.upDownSpace {
+	padding-top: 4%;
+	padding-bottom: 2%;
+}
+.RightMargin {
+	margin-right: 2%;
+}
+.linkStyle {
+	color: inherit;
+	text-decoration: inherit;
+}

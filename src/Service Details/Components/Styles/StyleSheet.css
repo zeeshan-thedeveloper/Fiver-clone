@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap');
+
+
+
+/* Fonts */
+
+.TabTextFonts{
+    font-family: 'Jura', sans-serif;
+    font-size: 15px;
+    font-weight:bold;
+}
+
+                        /*Image and title fonts  */
+.ServiceTitle{
+    font-family: 'Jura', sans-serif;
+    font-size: 2rem;
+    font-weight:bold;
+    padding-bottom: 10px;
+}
+.ServiceRatings{
+    margin-top: 2%;
+}
+.ServiceRatingText{
+    font-family: 'Jura', sans-serif;
+    font-size: 20px;
+    display: inline;
+}
+.ServiceRatingBar{
+   display: inline;
+}
+
+                        /* Over view  */
+
+.HeadingFonts{
+    font-family: 'Jura', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;                 
+}
+.ParaphFonts{
+        /* font-family: 'Jura', sans-serif; */
+         font-size: 1rem;    
+}
+                            
+
+                   
+                    /* Package */
+.PackageText{
+    font-family: 'Jura', sans-serif;
+    font-size: 10px;
+}
+.StickThePackageContainer{
+    position: fixed;
+    margin-top: 1.5%;
+    width:370px;
+}
+.UnStickThePackageContainer{
+   margin-top:174.9%;
+}
+.OurpackageFonts{
+    font-family: 'Jura', sans-serif;
+    font-size: 25px;
+    font-weight: bold   ;
+}
+
+                /* Cutomer Reviews */
+.RatingHeading{
+    font-family: 'Jura', sans-serif;
+    font-size: 25px;
+    font-weight: bold   ;
+    margin-top: 3%;
+    margin-left: 2%;
+    display: inline-block;
+}
+.RatingStartsContainer{
+    display: inline-block;
+    padding-top: 2%;
+    font-family: 'Jura', sans-serif;
+    font-size: 25px;
+}
+.ReviewerImageHolder{
+    display: inline-block;
+}
+.ReviewerNameFonts{
+    display: inline-block;
+    font-family: 'Jura', sans-serif;
+    font-size: 15px;
+    margin-left: 1%;
+}
+.ReviewerRatingContainer{
+    display: inline-block;
+}
+.ReviewerNumberContainer{
+    font-family: 'Jura', sans-serif;
+    font-size: 15px;
+    display: inline-block;
+}
+.ReviewerCountryNameContainer{
+    font-family: 'Jura', sans-serif;
+    font-size: 15px;
+    display: inline-block;
+    margin-left: 1%;
+}
+.ReviewerCountryFlagContainer{
+    display: inline-block;
+    margin-top: 3%;
+}
+.ReviewerCommentFonts{
+    font-family: 'Jura', sans-serif;
+    font-size: 15px;
+    margin-left:7%;
+}
+.NumberOfDaysAfterPublishFonts{
+    font-family: 'Jura', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 7%;
+    margin-top: 3%;
+
+}
+.ThumbFonts{
+    display: inline-block;
+    font-family: 'Jura', sans-serif;
+    font-size: 20px;
+    margin-left: 1%;
+}
+.Thumb{
+    display: inline-block;
+    margin-left: 2%;
+}
+.CompanyLogo{
+    display: inline-block;
+}
+.CompanyNamefont{
+  
+    display: inline-block;
+    font-family: 'Jura', sans-serif;
+    font-size: 15px;
+    margin-left: 1%;
+}
+
+.CompanyCommentFonts{
+    font-family: 'Jura', sans-serif;
+    font-size: 15px;
+    margin-left:16%;
+}
+.CompanyNumberOfDaysAfterPublishFonts{
+    font-family: 'Jura', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 16%;
+    margin-top: 3%;
+}
+
+/* ------------Nav bar sliding effect------------ */
+ .navdiv {
+    color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%; 
+  }
+  .active {
+    visibility: visible;
+    transition: all 0.5s;
+  }
+  .hidden {
+    /* visibility: hidden; */
+    transition: all 0.5s;
+    transform: translateY(-57%);
+  }

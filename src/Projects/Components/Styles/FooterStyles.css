@@ -1,0 +1,26 @@
+.ulStyle {
+	list-style: none;
+	font-size: small;
+}
+.liStyle {
+	margin-bottom: 3%;
+}
+.listHeading {
+	margin-bottom: 5%;
+	color: aliceblue;
+	font-weight: bolder;
+}
+.itemCenter {
+	padding: 5%;
+}
+.upDownSpace {
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.RightMargin {
+	margin-right: 2%;
+}
+.linkStyle {
+	color: inherit;
+	text-decoration: inherit;
+}

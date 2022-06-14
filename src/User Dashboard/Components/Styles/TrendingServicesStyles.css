@@ -1,0 +1,6 @@
+.serviceImage{
+    width: 100%;
+}
+.serviceImage:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.themeColor {
+	background-color: #011c38;
+}
+.themeColorText {
+	color: #011c38;
+}
+themecolortwo {
+	background-color: rgb(228, 89, 54);
+}
+.themecolortwotext {
+	color: #ea6645;
+}
+.highlighterColor {
+	background-color: #f8f9fa;
+}
+.highlighterText {
+	color: #f8f9fa;
+}
+.primaryText {
+	color: rgb(213, 212, 210);
+}
+.primaryColor {
+	background-color: rgb(213, 212, 210);
+}
+.standardText {
+	color: rgba(0, 0, 0, 0.87);
+}
+.standardColor {
+	background-color: rgba(0, 0, 0, 0.87);
+}

@@ -1,0 +1,88 @@
+{
+  "name": "front-end-base",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@cantonjs/react-scroll-view": "^0.4.2",
+    "@date-io/date-fns": "^2.11.0",
+    "@date-io/moment": "^2.11.0",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@material-ui/core": "^4.12.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@material-ui/pickers": "^3.3.10",
+    "@mui-treasury/components": "^1.10.1",
+    "@mui-treasury/styles": "^1.13.1",
+    "@mui/icons-material": "^5.0.1",
+    "@mui/material": "^5.0.1",
+    "@reduxjs/toolkit": "^1.6.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "antd": "^4.16.12",
+    "antd-img-crop": "^3.14.3",
+    "doka": "^0.1.0",
+    "filepond": "^4.29.0",
+    "filepond-plugin-image-crop": "^2.0.6",
+    "filepond-plugin-image-exif-orientation": "^1.0.11",
+    "filepond-plugin-image-preview": "^4.6.8",
+    "filepond-plugin-image-transform": "^3.8.7",
+    "immer": "^8.0.1",
+    "pintura": "^0.3.10",
+    "react": "^17.0.2",
+    "react-avatar-editor": "^12.0.0",
+    "react-cropper": "^2.1.8",
+    "react-custom-scroll": "^4.3.0",
+    "react-custom-scrollbars-2": "^4.4.0",
+    "react-datetime-picker": "^3.4.0",
+    "react-dom": "^17.0.2",
+    "react-dropzone": "^11.3.4",
+    "react-filepond": "^7.1.1",
+    "react-image-crop": "^9.0.2",
+    "react-lorem-ipsum": "^1.4.9",
+    "react-material-ui-carousel": "^2.3.1",
+    "react-redux": "^7.2.5",
+    "react-responsive": "^9.0.0-beta.2",
+    "react-responsive-carousel": "^3.2.21",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-show-more-text": "^1.5.0",
+    "react-sticky": "^6.0.3",
+    "react-swipeable": "^6.1.2",
+    "react-swipeable-views": "^0.14.0",
+    "redux": "^4.1.1",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.9"
+  }
+}

@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap');
+
+
+.menuBarItem{
+    color: white;
+    font-family: 'Jura';
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 18px;
+}

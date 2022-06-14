@@ -1,0 +1,22 @@
+nav items color
+bg color
+top menu items
+isSearchBar
+isBottom tabs
+bottom tabs menu
+handlers
+is avatar
+avatar
+isNotify icon
+notufy icon
+
+  const navbarTabsOptions = [
+    {id=0, label: "Web Development", panel: null },
+    {id=1, label: "Mobile Development", panel: null },
+    { id=2,label: "Automation", panel: null },
+    { id=3,label: "AI MOdels", panel: null },
+    { id=4,label: "Graphic Designing", panel: null },
+    { id=5,label: "Database", panel: null },
+    { id=6,label: "Bussincess", panel: null },
+    { id=7,label: "Writting & Transaltions", panel: null },
+  ];
